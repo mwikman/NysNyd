@@ -1,4 +1,3 @@
-====== Homelab
 ### Welcome to NysNyd
 
 NysNyd (Not your server, Not your data). Is a self hosting platform for apps/data allowing you to keep control and ownership of your own data. NysNyd is meant to host apps in a scalable and flexible way built on Open Source technology ensuring maximum transparency. Currently only one hardware setup is compatible but i am looking to setup another one using a raspberry pi.
